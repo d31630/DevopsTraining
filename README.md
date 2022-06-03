@@ -1,1 +1,1 @@
-info about this project
+Automating AWSwith Terraform
